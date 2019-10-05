@@ -1,0 +1,40 @@
+{
+  "name": "BottomNavigation",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "b622423405bcc984de6553e2f23c9fb6",
+      "css": "barcode",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "65b38892a106dca1e9c50fefb427d963",
+      "css": "compare_arrows",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "w3nzesrlbezu6f30q7ytyq919p6gdlb6",
+      "css": "home",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "cb1b97054eb9c5139256f73f840dc610",
+      "css": "history",
+      "code": 59395,
+      "src": "material"
+    },
+    {
+      "uid": "3adf65eaea51a88f9c3a5fc219be5389",
+      "css": "playlist_add",
+      "code": 59396,
+      "src": "material"
+    }
+  ]
+}

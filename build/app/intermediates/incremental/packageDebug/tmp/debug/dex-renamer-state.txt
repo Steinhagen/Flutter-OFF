@@ -1,0 +1,4 @@
+#Sat Oct 05 15:23:26 EEST 2019
+base.0=/home/crapitea/Work/Flutter/open_food_facts/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
